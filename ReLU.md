@@ -51,3 +51,5 @@ ReLU is widely used in:
 - **Unbounded Output**:
   - ReLU does not have an upper bound, which can lead to exploding activations in deep networks.
 
+## Article link :
+https://www.kaggle.com/code/dansbecker/rectified-linear-units-relu-in-deep-learning
